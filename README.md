@@ -1,5 +1,7 @@
 # Learning String Alignments for Entity Aliases #
 
+Part of the [Dedupe.io](https://dedupe.io/) cloud service and open source toolset for de-duplicating and finding fuzzy matches in your data.
+
 Paper can be found here: http://www.akbc.ws/2017/papers/28_paper.pdf
 
 ## Dependencies ##
